@@ -2,3 +2,4 @@ Use three.js + csg.js to generate + render shapes
 
 https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
 https://github.com/oanataut/csg.js.git
+https://tools.decodeingress.me/Curated/Edifice
