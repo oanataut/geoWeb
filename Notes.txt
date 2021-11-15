@@ -3,3 +3,5 @@ Use three.js + csg.js to generate + render shapes
 https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
 https://github.com/oanataut/csg.js.git
 https://tools.decodeingress.me/Curated/Edifice
+https://www.redblobgames.com/
+https://blog.mycrypto.com/so-you-wanna-build-your-own-pfp-nft-project/
