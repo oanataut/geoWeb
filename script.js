@@ -103,7 +103,7 @@ function init() {
     //skymat.encoding = THREE.sRGBEncoding;
     //alight = new THREE.LightProbe(); 
         //alight.copy (LightProbeGenerator.fromCubeTexture(probemat);
-    alight = new THREE.HemisphereLight(0xffeeb1, 0x080820, 1); //hemisphere light
+    alight = new THREE.HemisphereLight(0xffeeb1, 0x080820, 0.5); //hemisphere light
     dlight = new THREE.DirectionalLight( 0x404040, 2);
     plight = new THREE.SpotLight(0x323edd, 0.5);
     plight.decay = 2;
